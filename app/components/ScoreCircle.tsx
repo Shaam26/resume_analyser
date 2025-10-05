@@ -1,3 +1,4 @@
+
 const ScoreCircle = ({ score = 75 }: { score: number }) => {
     const radius = 40;
     const stroke = 8;
